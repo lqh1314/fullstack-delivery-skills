@@ -37,7 +37,7 @@ infrastructure/    persistence(JPA/ORM 适配器实现 out 端口)、web(控制�
 ## 2. API 契约优先
 ### 2.1 统一响应信封（团队选定后全项目一致）
 成功：`{ "success": true, "data": {...}, "error": null, "timestamp": "..." }`；
-失败：`{ "success": false, "data": null, "error": {"code":"ORDER_NOT_FOUND","message":"...","details":[]}, "timestamp": "..." }`。
+失败：`{ "success": false, "data": null, "error": {"code":"ORDER_NOT_FOUND","message":"...","details":[]}, "timestamp":"..." }`。
 对外 REST 也可用 RFC 9457（Problem Details）表达错误；二选一，不混用。
 ### 2.2 HTTP 状态码映射
 | 场景 | 码 | 场景 | 码 |
