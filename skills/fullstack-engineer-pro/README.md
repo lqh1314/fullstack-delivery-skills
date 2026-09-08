@@ -1,3 +1,9 @@
+> ⚠️ **已整合 / 不再单独维护（2026-09-08）**
+> 本技能的独有能力（根因调试六步、跨语言架构、Java/Spring 自包含手册、Agent/LLM 主线）已并入唯一全栈总控 **`fullstack-delivery-orchestrator`** 的 `references/integrated/` 目录，此处仅作历史备份保留，不再单独调用。
+> - 全栈端到端 / 架构 / Java·Spring / Agent：请用 `fullstack-delivery-orchestrator`
+> - 单点小 bug 快速修复：请用 `bugfix-fast`
+> - 整合后技能见 https://github.com/lqh1314/fullstack-delivery-skills 的 `skills/fullstack-delivery-orchestrator/`
+
 # FullStack Engineer Pro · 资深全栈工程师总控 Skill
 
 > 一个 Skill，把"资深全栈工程师接到任务后的完整工作方式"固化下来：**需求 → 架构 → 分层实现 → 测试/安全/性能三路评审 → 部署交付**全生命周期编排，内置 **Python / Java·Spring·Quarkus / JavaScript·TypeScript·React·Node** 多语言工程手册，覆盖 **Agent/LLM 应用开发、系统架构、Bug 根因定位与深度修复、TDD 与生产可观测**。
