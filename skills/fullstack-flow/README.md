@@ -1,3 +1,9 @@
+> ⚠️ **已整合 / 不再单独维护（2026-09-08）**
+> 本技能的独有能力（会话断点恢复、复杂度裁剪、九专家角色卡）已并入唯一全栈总控 **`fullstack-delivery-orchestrator`**，此处仅作历史备份保留，不再单独调用。
+> - 全栈端到端 / 跨层开发 / 架构 / Agent：请用 `fullstack-delivery-orchestrator`
+> - 单点小 bug 快速修复：请用 `bugfix-fast`
+> - 整合后技能见 https://github.com/lqh1314/fullstack-delivery-skills 的 `skills/fullstack-delivery-orchestrator/`
+
 # fullstack-flow — 全栈项目端到端交付流水线 Skill
 
 一个单入口 Skill，把全栈功能从「模糊想法」带到「可上线交付」：
